@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to bottom, #fdf6e3, #ffeaea);
+  color: #333;
+  overflow-x: hidden;
+  position: relative;
+  cursor: url('https://cdn-icons-png.flaticon.com/128/833/833472.png'), auto;
+}
+/* Remaining CSS omitted for brevity... */
